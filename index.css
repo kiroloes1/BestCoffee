@@ -40,7 +40,7 @@ header span{
  nav a{
    
     font-size: medium;
-    font-family: cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     /* border:solid black; */
     
   
@@ -215,6 +215,7 @@ header span{
 }
 .Gallery-pic img{
     margin: 1vh;
+    width: 80%;
 }
 
 .footer{
